@@ -126,7 +126,7 @@ nav svg {
     border: 1px solid red;
     background-color: red;
     border-radius: 4px;
-    padding: 11px;
+    padding: 9px;
     cursor: pointer;
 }
 
@@ -246,7 +246,7 @@ nav svg {
     font-weight: 500;
     line-height: 24px;
     font-size: 24px;
-    padding: 22px;
+    padding: 15px;
 }
 footer{
     max-width: 80vw;
